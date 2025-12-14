@@ -124,4 +124,5 @@ def bittobyte(bitlist):
         output.append(b)
     return output
   
+
 main()
